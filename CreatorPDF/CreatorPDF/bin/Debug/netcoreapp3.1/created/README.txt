@@ -1,1 +1,0 @@
-Miejsce do zapisu plików .pdf.
