@@ -19,6 +19,7 @@ namespace CreatorPDF
             Random rand = new Random();
             string type = "";
             int term = 0;
+
             switch (rand.Next((int)RandValues.TTStart, (int)RandValues.TTStop)) //Losowanie typu
             {
                 case 0:

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Praktyki\\source\\repos\\CreatorPDF - obiektowo ver1.2\\CreatorPDF\\CreatorPDF.csproj": {}
+    "C:\\Users\\Praktyki\\source\\repos\\CreatorPDF\\CreatorPDF\\CreatorPDF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Praktyki\\source\\repos\\CreatorPDF - obiektowo ver1.2\\CreatorPDF\\CreatorPDF.csproj": {
+    "C:\\Users\\Praktyki\\source\\repos\\CreatorPDF\\CreatorPDF\\CreatorPDF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Praktyki\\source\\repos\\CreatorPDF - obiektowo ver1.2\\CreatorPDF\\CreatorPDF.csproj",
+        "projectUniqueName": "C:\\Users\\Praktyki\\source\\repos\\CreatorPDF\\CreatorPDF\\CreatorPDF.csproj",
         "projectName": "CreatorPDF",
-        "projectPath": "C:\\Users\\Praktyki\\source\\repos\\CreatorPDF - obiektowo ver1.2\\CreatorPDF\\CreatorPDF.csproj",
+        "projectPath": "C:\\Users\\Praktyki\\source\\repos\\CreatorPDF\\CreatorPDF\\CreatorPDF.csproj",
         "packagesPath": "C:\\Users\\Praktyki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Praktyki\\source\\repos\\CreatorPDF - obiektowo ver1.2\\CreatorPDF\\obj\\",
+        "outputPath": "C:\\Users\\Praktyki\\source\\repos\\CreatorPDF\\CreatorPDF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Praktyki\\AppData\\Roaming\\NuGet\\NuGet.Config",
